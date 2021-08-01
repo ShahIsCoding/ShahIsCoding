@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShahIsCoding
+- 👋 Hi, I’m ABHISHEK SHAH (aka @ShahIsCoding)
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Back End development and react redux.  
 
