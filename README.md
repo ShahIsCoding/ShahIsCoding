@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shah (a.k.a ShahIsCoding)</h1>
 <h3 align="left">A passionate developer and currently learning Front and Back End Development from India.</h3>
 
-- 🔭 I’m currently working on **tinder-clone**
+- 🔭 I’m currently working on **react-native**
 
-- 🌱 I’m currently learning **React js,MongoDb**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **cpabhishekshah0036@hotmail.com**
 
